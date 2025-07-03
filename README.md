@@ -1,2 +1,2 @@
-# Car-Rental-Management-System-
-My first Window form project from scratch 💻✨
+# Car-Rental-Management-System
+A Windows Forms Car Rental Management System in C# 💻✨
